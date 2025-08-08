@@ -3683,6 +3683,10 @@ PrefabInstance:
       value: player
       objectReference: {fileID: 0}
     - target: {fileID: 7220940082362644591, guid: 354af34cc84fff345a343439a1a169f3, type: 3}
+      propertyPath: health
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7220940082362644591, guid: 354af34cc84fff345a343439a1a169f3, type: 3}
       propertyPath: coinCount
       value: 
       objectReference: {fileID: 1065531316}

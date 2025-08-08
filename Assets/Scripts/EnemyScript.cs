@@ -53,6 +53,7 @@ public class EnemyScript : MonoBehaviour
             if(Health<=0)
             {
                 AudioSource.PlayClipAtPoint(explosionSound,Camera.main.transform.position,0.5f);
+                Spawner.Instance.CountDestroyEnemy();
                 Destroy(gameObject);
                 GameObject enemyExplosion = Instantiate(enemyExplosionPrefab,transform.position,Quaternion.identity);
                 Destroy(enemyExplosion,0.4f);
@@ -64,7 +65,7 @@ public class EnemyScript : MonoBehaviour
     { 
         for(int i = 0;  i < gunPoint.Length; i++)
         {
-        Instantiate(enemyBullet, gunPoint[i].position,Quaternion.identity);
+            Instantiate(enemyBullet, gunPoint[i].position,Quaternion.identity);
         }
     }
     IEnumerator EnemyShooting()
