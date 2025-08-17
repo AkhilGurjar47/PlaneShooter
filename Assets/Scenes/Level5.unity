@@ -3629,8 +3629,8 @@ MonoBehaviour:
   - {fileID: 3479696653552664667, guid: 9c6859fa84cdf674093c1bbde1857d9d, type: 3}
   - {fileID: 6093694914206387590, guid: f4bbca4f8f9b4ab438f34bd205ea43c2, type: 3}
   - {fileID: 2358508366922756490, guid: 27e377823aefec54d831e9cd7c4f93eb, type: 3}
-  respawnTime: 3
-  enemySpawnCount: 20
+  respawnTime: 5
+  enemySpawnCount: 25
   gamecontroller: {fileID: 1959385141}
 --- !u!4 &2074635657
 Transform:
