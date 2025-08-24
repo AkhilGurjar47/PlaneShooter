@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: aircraft1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 277
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a97afac56b2d4c991818030512d4c
+      internalID: 359076996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 12
+        width: 278
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3432007111829c49a1e91062d96b6fc
+      internalID: 1058830177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea058f235c60c409facd2b695185b3
+      internalID: -1670431217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934505a4a749c74b89059519cc8f20f
+      internalID: 552777057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 14
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72f5928af5c63498b2c35bcb4e1955
+      internalID: -265776023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b319795d57987c4e9b1568d22294add
+      internalID: -1398113719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023219a540613c49b2a17fae526dbb3
+      internalID: -1014776224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 14
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e145902d860c478ed7a9f0758f0ec
+      internalID: -1029735354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircraft1_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f80bbaf7051bf4cb261fa0dc74c42a
+      internalID: -1912059547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +321,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      aircraft1_0: 359076996
+      aircraft1_1: 1058830177
+      aircraft1_2: -1670431217
+      aircraft1_3: 552777057
+      aircraft1_4: -265776023
+      aircraft1_5: -1398113719
+      aircraft1_6: -1014776224
+      aircraft1_7: -1029735354
+      aircraft1_8: -1912059547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
