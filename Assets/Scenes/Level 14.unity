@@ -2800,7 +2800,7 @@ MonoBehaviour:
   - {fileID: 6093694914206387590, guid: f4bbca4f8f9b4ab438f34bd205ea43c2, type: 3}
   - {fileID: 2358508366922756490, guid: 27e377823aefec54d831e9cd7c4f93eb, type: 3}
   respawnTime: 5
-  enemySpawnCount: 40
+  enemySpawnCount: 49
   gamecontroller: {fileID: 820546524}
 --- !u!4 &1633346468
 Transform:
